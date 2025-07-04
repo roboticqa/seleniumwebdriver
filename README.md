@@ -1,2 +1,2 @@
-# sta-seleniumwebdriver
-Selenium WebDriver Repository By Software Test Automation
+# seleniumwebdriver
+Selenium WebDriver Repository By RoboticQA Academy
